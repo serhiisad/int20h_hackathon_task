@@ -38,7 +38,7 @@ m = folium.Map(location=[sum(lat) / len(lat), sum(lng) / len(lng)], zoom_start=1
 my_PolyLine = folium.PolyLine(locations=polyline, weight=8, color="blue")
 m.add_child(my_PolyLine)
 
-hexagons = list(h3.polyfill(geoJson, 8))
+hexagons = list(h3.polyfill(geoJson, 7))
 polylines = []
 lat = []
 lng = []
