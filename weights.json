@@ -1,1 +1,147 @@
-[{"color": "green", "weight": 1, "data": "871e76892ffffff"}, {"color": "green", "weight": 2, "data": "871e7688affffff"}, {"color": "green", "weight": 1, "data": "871e76895ffffff"}, {"color": "yellow", "weight": 6, "data": "871e76882ffffff"}, {"color": "green", "weight": 2, "data": "871e76126ffffff"}, {"color": "green", "weight": 2, "data": "871e7688effffff"}, {"color": "green", "weight": 1, "data": "871e7688bffffff"}, {"color": "green", "weight": 1, "data": "871e76888ffffff"}, {"color": "green", "weight": 3, "data": "871e76899ffffff"}, {"color": "green", "weight": 1, "data": "871e76886ffffff"}, {"color": "green", "weight": 1, "data": "871e76124ffffff"}, {"color": "orange", "weight": 9, "data": "871e7689cffffff"}, {"color": "green", "weight": 1, "data": "871e76890ffffff"}, {"color": "green", "weight": 2, "data": "871e76893ffffff"}, {"color": "green", "weight": 1, "data": "871e76894ffffff"}, {"color": "green", "weight": 1, "data": "871e76884ffffff"}, {"color": "orange", "weight": 7, "data": "871e7689dffffff"}, {"color": "green", "weight": 2, "data": "871e76134ffffff"}, {"color": "green", "weight": 1, "data": "871e768b3ffffff"}, {"color": "green", "weight": 3, "data": "871e76898ffffff"}, {"color": "green", "weight": 3, "data": "871e7689bffffff"}, {"color": "yellow", "weight": 4, "data": "871e76880ffffff"}, {"color": "green", "weight": 1, "data": "871e768b0ffffff"}, {"color": "yellow", "weight": 4, "data": "871e76881ffffff"}, {"color": "yellow", "weight": 4, "data": "871e76891ffffff"}, {"color": "red", "weight": 20, "data": "871e76883ffffff"}, {"color": "green", "weight": 1, "data": "871e7688cffffff"}, {"color": "green", "weight": 1, "data": "871e76885ffffff"}, {"color": "orange", "weight": 7, "data": "871e7689effffff"}]
+[
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76892ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 2,
+    "data": "871e7688affffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76895ffffff"
+  },
+  {
+    "color": "yellow",
+    "weight": 6,
+    "data": "871e76882ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 2,
+    "data": "871e76126ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 2,
+    "data": "871e7688effffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e7688bffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76888ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 3,
+    "data": "871e76899ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76886ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76124ffffff"
+  },
+  {
+    "color": "orange",
+    "weight": 9,
+    "data": "871e7689cffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76890ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 2,
+    "data": "871e76893ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76894ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76884ffffff"
+  },
+  {
+    "color": "orange",
+    "weight": 7,
+    "data": "871e7689dffffff"
+  },
+  {
+    "color": "green",
+    "weight": 2,
+    "data": "871e76134ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e768b3ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 3,
+    "data": "871e76898ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 3,
+    "data": "871e7689bffffff"
+  },
+  {
+    "color": "yellow",
+    "weight": 4,
+    "data": "871e76880ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e768b0ffffff"
+  },
+  {
+    "color": "yellow",
+    "weight": 4,
+    "data": "871e76881ffffff"
+  },
+  {
+    "color": "yellow",
+    "weight": 4,
+    "data": "871e76891ffffff"
+  },
+  {
+    "color": "red",
+    "weight": 20,
+    "data": "871e76883ffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e7688cffffff"
+  },
+  {
+    "color": "green",
+    "weight": 1,
+    "data": "871e76885ffffff"
+  },
+  {
+    "color": "orange",
+    "weight": 7,
+    "data": "871e7689effffff"
+  }
+]
